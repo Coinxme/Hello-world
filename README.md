@@ -1,5 +1,4 @@
-# Hello-world
-My first repository 
+# Hello-world 
 Hello humans,
 
 Droski here, I like swimming and flying.
